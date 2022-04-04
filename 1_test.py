@@ -1,3 +1,7 @@
-a =10
+input_id =input('id : ')
+id = 'egoing'
+if input_id == id:
+    print('welcome')
 
-print(a)
+if input_id !=id:
+    print('who?')
