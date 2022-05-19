@@ -1,1 +1,0 @@
-print("http naver.co")
